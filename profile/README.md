@@ -1,49 +1,40 @@
-<div align="center">
+<p align="center">
+  <a href="https://publishify.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="publishify-beyaz.svg">
+      <img src="publishify-siyah.svg" alt="Publishify" width="240">
+    </picture>
+  </a>
+</p>
 
-<img src="https://raw.githubusercontent.com/publishify/studio/main/docs/marka/logo/publishify-yesil.svg" alt="Publishify" height="52">
+<h3 align="center">Open-source tools for people who write.</h3>
 
-### A calm, open-source studio for writers of all kinds.
-
-Write novels, stories, poems, essays and blog posts in one quiet place. Keep your files in your own cloud. Publish with one click.
-
-[**Open Studio**](https://publishify.app/studio/) · [Website](https://publishify.app) · [Features](https://publishify.app/ozellikler/) · [Languages](https://publishify.app/diller/) · [Contact](mailto:info@publishify.app)
-
-</div>
+<p align="center">
+  <a href="https://publishify.app/en/">Website</a> ·
+  <a href="https://publishify.app/studio/">Studio</a> ·
+  <a href="https://github.com/publishify/studio">Source</a> ·
+  <a href="https://github.com/publishify/studio/blob/main/CONTRIBUTING.md">Contribute</a>
+</p>
 
 ---
 
-## What we build
+**Publishify** builds a free, open-source writing studio for novelists, poets, essayists, bloggers and academics. Write in any browser on any device, keep every chapter as a plain Markdown file in your own cloud, and publish your work as a fast, beautiful web page in one click.
 
-**Publishify Studio** is a writing editor and publishing studio for independent authors. It combines the calm of a plain-text Markdown editor with the structure of a long-form project tool, runs in any browser, and keeps your work as plain files that you own.
+### What we believe
 
-| | |
-|---|---|
-| **Write** | Live Markdown, a full-screen writing mode, focus and typewriter modes, dictation, seven themes. |
-| **Organize** | Part › chapter › scene structure, templates for every genre, version history, a trash bin that never deletes silently. |
-| **Keep** | Local-first. Optional sync to your own Google Drive as one Markdown file per chapter, or passkey accounts with cross-device sync. |
-| **Publish** | One-click public pages, plus export to Markdown, HTML, Word, EPUB and PDF. |
-| **Every language** | Arabic, Ottoman Turkish, Turkish, English, German, French, Russian, Japanese — with right-to-left done properly. |
+- ✍️ **The author's text is sacred.** Our software reads, organises and publishes your words. It never rewrites them.
+- 📄 **Your files are yours.** Plain Markdown, your own storage, no lock-in.
+- 🌍 **Every language, every script.** Right-to-left and the languages of Anatolia and the Middle East are first-class, alongside English.
+- 🔓 **Open by default.** MIT-licensed code, documented decisions, and the work done in public.
 
-## Repositories
+### Projects
 
 | Repository | Description |
 |---|---|
-| [**studio**](https://github.com/publishify/studio) | The Publishify Studio editor, API and website. MIT licensed. |
+| [**studio**](https://github.com/publishify/studio) | The writing studio: live-Markdown editor, part › chapter › scene, Google Drive storage, export to DOCX, EPUB and PDF, and one-click publishing. React, CodeMirror 6, Hono and Cloudflare Workers. |
 
-## Principles
+### Get involved
 
-- **The author writes.** Our tools support the writer and never take the pen.
-- **Plain files, no lock-in.** Markdown in, Markdown out.
-- **Calm by default.** A few well-chosen tools instead of a wall of menus.
-- **Open core.** The editor, sync protocol and publishing are open source.
+Translate the interface into your language, report a bug, or pick up an issue. Writers and developers are equally welcome. Start with [CONTRIBUTING.md](https://github.com/publishify/studio/blob/main/CONTRIBUTING.md).
 
-## What's next
-
-An **editorial board**: a hosted, AI-assisted team of specialist editors, reader panels and consistency checkers that read your book and give feedback — without ever rewriting your text. Part of it will be free; deeper evaluations will be paid.
-
-## Get involved
-
-- Try the editor: **[publishify.app/studio](https://publishify.app/studio/)**
-- Report a bug or suggest a feature in the [studio repository](https://github.com/publishify/studio/issues)
-- Help translate the interface — native-speaker reviews are especially welcome
-- Security reports: info@publishify.app (please do not open a public issue)
+<p align="center"><sub>Write anywhere. Keep your files. Publish in one click.</sub></p>
