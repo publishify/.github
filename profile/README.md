@@ -1,40 +1,18 @@
-<p align="center">
-  <a href="https://publishify.app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="publishify-beyaz.svg">
-      <img src="publishify-siyah.svg" alt="Publishify" width="240">
-    </picture>
-  </a>
-</p>
+# Publishify — Your AI Editorial Board
 
-<h3 align="center">Open-source tools for people who write.</h3>
+**Write wherever you want. Let an editorial board review your manuscript in your own AI application.**
 
-<p align="center">
-  <a href="https://publishify.app/en/">Website</a> ·
-  <a href="https://publishify.app/studio/">Studio</a> ·
-  <a href="https://github.com/publishify/studio">Source</a> ·
-  <a href="https://github.com/publishify/studio/blob/main/CONTRIBUTING.md">Contribute</a>
-</p>
+The Editor, Continuity Checker and simulated Reader Panel bring different perspectives to your manuscript. You keep your voice and make the final decisions.
 
----
+**In development · First desk: Fiction for Claude**
 
-**Publishify** builds a free, open-source writing studio for novelists, poets, essayists, bloggers and academics. Write in any browser on any device, keep every chapter as a plain Markdown file in your own cloud, and publish your work as a fast, beautiful web page in one click.
+[Website](https://publishify.app/) · [Türkçe](https://publishify.app/tr/) · [Plugin & documentation](https://github.com/publishify/aiplugin)
 
-### What we believe
+**İstediğin yerde yaz. Metnine, kendi yapay zekânda bir de kurul baksın.**
 
-- ✍️ **The author's text is sacred.** Our software reads, organises and publishes your words. It never rewrites them.
-- 📄 **Your files are yours.** Plain Markdown, your own storage, no lock-in.
-- 🌍 **Every language, every script.** Right-to-left and the languages of Anatolia and the Middle East are first-class, alongside English.
-- 🔓 **Open by default.** MIT-licensed code, documented decisions, and the work done in public.
+## Repositories
 
-### Projects
-
-| Repository | Description |
-|---|---|
-| [**studio**](https://github.com/publishify/studio) | The writing studio: live-Markdown editor, part › chapter › scene, Google Drive storage, export to DOCX, EPUB and PDF, and one-click publishing. React, CodeMirror 6, Hono and Cloudflare Workers. |
-
-### Get involved
-
-Translate the interface into your language, report a bug, or pick up an issue. Writers and developers are equally welcome. Start with [CONTRIBUTING.md](https://github.com/publishify/studio/blob/main/CONTRIBUTING.md).
-
-<p align="center"><sub>Write anywhere. Keep your files. Publish in one click.</sub></p>
+| Repository | Purpose |
+| --- | --- |
+| [aiplugin](https://github.com/publishify/aiplugin) | Product and documentation / Ürün ve belgeler |
+| [website](https://github.com/publishify/website) | Website source / Site kaynakları |
