@@ -34,7 +34,7 @@
 | [**publishify**](https://github.com/publishify/publishify) | The writing editor at [write.publishify.app](https://write.publishify.app/) |
 | [**plugin**](https://github.com/publishify/plugin) | The editorial board plugin for your AI application (Claude first) |
 
-The website at [publishify.app](https://publishify.app/) and the board's server are kept in private repositories. Retired and kept as archives: [studio](https://github.com/publishify/studio), [masthead](https://github.com/publishify/masthead) and [website](https://github.com/publishify/website).
+The website at [publishify.app](https://publishify.app/) and the board's server are kept in private repositories.
 
 ### Türkçe
 
